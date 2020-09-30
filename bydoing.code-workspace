@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.eol": "\n",
+		"debug.allowBreakpointsEverywhere": true,
+		"editor.defaultFormatter": "rust-lang.rust",
+		"editor.formatOnPaste": true,
+		"editor.formatOnSave": true,
+		"files.autoSave": "afterDelay"
+	}
+}
